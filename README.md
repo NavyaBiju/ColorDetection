@@ -1,1 +1,1 @@
-# Hand-Recognition
+# Color Detection
